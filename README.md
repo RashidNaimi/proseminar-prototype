@@ -8,6 +8,8 @@
 - [ ] **[?]**   SWOT Analysis & Welche aspekte sind wichtig?
 - [ ] **[?]**   2 DPs vorstellen, 2 Frage pro DP, DPs evaluieren
 - [ ] **[?]**   Experte
+- [ ] **[?]**   Welcher Antrag und welche Stellen sollen bearbeitet werden 
+- [ ] **[?]**   Fragen überlgen, die während der Bearbeitung gestellt werden sollen 
 
 # Einrichtung
 
